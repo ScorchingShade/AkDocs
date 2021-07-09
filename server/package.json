@@ -1,0 +1,30 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server for Akdocs",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScorchingShade/AkDocs.git"
+  },
+  "keywords": [
+    "Google",
+    "docs",
+    "text",
+    "editor",
+    "socket"
+  ],
+  "author": "Ankush",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScorchingShade/AkDocs/issues"
+  },
+  "homepage": "https://github.com/ScorchingShade/AkDocs#readme",
+  "dependencies": {
+    "socket.io": "^4.1.2"
+  }
+}
