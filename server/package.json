@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/ScorchingShade/AkDocs#readme",
   "dependencies": {
+    "mongoose": "^5.13.2",
     "socket.io": "^4.1.2"
   }
 }
